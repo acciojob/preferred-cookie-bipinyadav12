@@ -47,5 +47,5 @@ function setCookie(name, value, days) {
                 alert('Font size must be between 8 and 72.');
             }
         });
-    </script>
+    
 
