@@ -21,7 +21,7 @@ function setCookie(name, value, days) {
 
             if (savedFontSize) {
                 document.body.style.fontSize = `${savedFontSize}px`;
-                document.getElementById('fontSize').value = savedFontSize;
+                document.getElementById('fontsize').value = savedFontSize;
             }
 
             if (savedFontColor) {
